@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cl.prueba.tenpo</groupId>
-	<artifactId>procentaje-dinamico</artifactId>
+	<artifactId>porcentaje-dinamico</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>procentaje-dinamico</name>
+	<name>porcentaje-dinamico</name>
 	<description>proyecto prueba para tenpo</description>
 	<url/>
 	<licenses>
