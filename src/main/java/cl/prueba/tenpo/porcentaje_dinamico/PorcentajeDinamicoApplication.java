@@ -1,13 +1,13 @@
-package cl.prueba.tenpo.procentaje_dinamico;
+package cl.prueba.tenpo.porcentaje_dinamico;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProcentajeDinamicoApplication {
+public class PorcentajeDinamicoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProcentajeDinamicoApplication.class, args);
+		SpringApplication.run(PorcentajeDinamicoApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package cl.prueba.tenpo.procentaje_dinamico;
+package cl.prueba.tenpo.porcentaje_dinamico;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
